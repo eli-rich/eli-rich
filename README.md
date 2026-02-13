@@ -1,6 +1,6 @@
 # Hi, I'm Eli :)
 
-**Hobbyist programmer | Systems & Backend | Cybersecurity Student**
+**Hobbyist programmer | Systems & Backend | Web Development | Cybersecurity Student**
 
 I've been writing code since I was 10, starting with Windows batch scripts. Then I learned Python, fell in love with JavaScript, and now spend most of my time in Go and C. Studying cybersecurity at Coastal Alabama Community College.
 
